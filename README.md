@@ -1,2 +1,2 @@
 # ELM367-Digital-Signal-Processing
-DSP lessons codes and notes
+DSP lesson codes and notes
